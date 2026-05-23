@@ -1,0 +1,7 @@
+token InfluxDB:
+Js6A1aCQWDEfKfI1nSC56U5ZhWU8_EqgmHUZsQyeKqbZ2v01gn7sA6SlQvnc8PbXXmzecVI_P9k6b6S3xzlHdw==
+user:drumboy
+pss:Leo12122323*
+Grafana:
+user:admin
+pss:Leo12122323*
